@@ -1,0 +1,11 @@
+Broswer edge
+URL https://login.salesforce.com/
+UserName mugesh.aravinth@cunning-goat-37co4x.com
+Password Mugesh1234@
+wrongUN Admin1
+wrongPw admin1234
+AccountName Error  
+Firstname Mr                       
+Lastname Test 
+
+                                                                                                                                                                                        

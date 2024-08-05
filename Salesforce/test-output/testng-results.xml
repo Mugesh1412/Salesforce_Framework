@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T17:22:05 IST" name="Default suite" finished-at="2024-08-05T17:22:24 IST" duration-ms="19804">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T17:22:05 IST" name="Default test" finished-at="2024-08-05T17:22:24 IST" duration-ms="19804">
+      <class name="com.salesforce_TestScripts.Login_Module">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.salesforce_TestScripts.Login_Module@8f4ea7c]" started-at="2024-08-05T17:22:04 IST" name="setup" finished-at="2024-08-05T17:22:05 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="openBroswer()[pri:0, instance:com.salesforce_TestScripts.Login_Module@8f4ea7c]" started-at="2024-08-05T17:22:05 IST" name="openBroswer" finished-at="2024-08-05T17:22:10 IST" duration-ms="5681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroswer -->
+        <test-method signature="loginWithVaildCredentials()[pri:0, instance:com.salesforce_TestScripts.Login_Module@8f4ea7c]" started-at="2024-08-05T17:22:10 IST" name="loginWithVaildCredentials" finished-at="2024-08-05T17:22:22 IST" duration-ms="11889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithVaildCredentials -->
+        <test-method is-config="true" signature="closeBroswer()[pri:0, instance:com.salesforce_TestScripts.Login_Module@8f4ea7c]" started-at="2024-08-05T17:22:22 IST" name="closeBroswer" finished-at="2024-08-05T17:22:24 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroswer -->
+      </class> <!-- com.salesforce_TestScripts.Login_Module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
