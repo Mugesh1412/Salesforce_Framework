@@ -27,3 +27,4 @@ public class Account_Related_Contact_Creation extends baseClass {
 		app.logoutIntoApp();
 	}
 }                                                    
+ 

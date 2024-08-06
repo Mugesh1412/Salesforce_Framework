@@ -56,24 +56,24 @@
 
 <build> 
 	<plugins>
-    
+     
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.2.5</version>
         <configuration>
-          <suiteXmlFiles>
+          <suiteXmlFiles> 
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
           
          <!-- <systemPropertyVariables>
-			
-			<Execution>${browser}</Execution>
-			                                                                             
-		  </systemPropertyVariables>-->
-        </configuration>
-      </plugin>
-          
+			  
+			<Execution>${browser}</Execution>   
+			                                                                              
+		  </systemPropertyVariables>-->                                                              
+        </configuration>                                               
+      </plugin>                                                     
+           
 </plugins> 
 </build>
 

@@ -12,7 +12,7 @@ import Utility.baseClass;
 
 public class Account_Module extends baseClass {
 	
-
+     
 	@Test
 	public void New_Account_Creation() throws InterruptedException, IOException {
 		
@@ -33,7 +33,7 @@ public class Account_Module extends baseClass {
 		}
 		app.logoutIntoApp();
 	}
-		
+		 
 		
 		@Test
 		  public void Verify_The_Validation_Eror_On_Account() throws InterruptedException, IOException {

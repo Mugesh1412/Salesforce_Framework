@@ -16,7 +16,6 @@ import Utility.listener;
 
 public class Login_Module extends baseClass{
 
-	 //public static login_logout app= new login_logout(driver);;
 	@Test
 	public void loginWithVaildCredentials() throws InterruptedException, IOException {
 		login_logout app= new login_logout(driver);
